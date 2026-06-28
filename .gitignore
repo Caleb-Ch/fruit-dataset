@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML datasets and large files
+data/
+dataset/
+datasets/
+fruit-dataset/
+*.zip
+*.rar
+*.7z
+*.tar
+*.pt
+*.pth
+*.h5
+*.keras
+*.onnx
+checkpoints/
+runs/
+outputs/
+wandb/
