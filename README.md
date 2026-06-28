@@ -26,7 +26,9 @@ The project starts from a baseline CNN model and gradually improves performance 
 ├── 08_Transfer_Learning.ipynb
 ├── README.md
 └── .gitignore
-Methods
+```
+
+## Methods
 
 The project includes the following experiments:
 
@@ -52,10 +54,10 @@ The project compares model performance under different experimental settings, in
 
 The final transfer learning experiments achieved the best classification performance among all tested approaches.
 
-Dataset Note
+## Dataset Note
 
 The full image dataset is not included in this repository due to file size considerations. The notebooks are provided for project demonstration, experiment documentation, and portfolio review.
 
-Purpose
+## Purpose
 
 This repository is part of my machine learning project portfolio. It demonstrates my ability to design experiments, compare model performance, analyze classification results, and improve a deep learning model step by step.
